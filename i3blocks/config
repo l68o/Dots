@@ -1,0 +1,7 @@
+[BATTERY]
+command=~/.config/i3blocks/battery/battery_info.sh
+interval=3
+
+[TIME_DATE]
+command=date +" %a, %d %b - %I:%M"
+interval=1
